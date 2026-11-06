@@ -1,4 +1,4 @@
-package Collections.practice;
+package Collections.ArrayList.practice;
 
 import java.util.ArrayList;
 import java.util.Comparator;

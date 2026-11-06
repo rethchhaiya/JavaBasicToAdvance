@@ -1,4 +1,4 @@
-package Collections.practice;
+package Collections.ArrayList.practice;
 
 public class Student {
     private Integer id;
