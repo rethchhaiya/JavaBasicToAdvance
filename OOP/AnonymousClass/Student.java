@@ -13,7 +13,7 @@ public class Student {
         return age;
     }
 
-    // use this to ouput the data with out this the data would be OOP.AnonymousClass.Student@251a69d7
+    // use this to ouput the data without this the data would be OOP.AnonymousClass.Student@251a69d7
     @Override
     public String toString() {
         return "Student [age=" + age + ", name=" + name + "]";
