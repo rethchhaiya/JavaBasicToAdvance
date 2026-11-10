@@ -9,6 +9,7 @@ public class ExceptionDemo {
         String[] name = {"Yaya", "Mama"};
 
         try{
+            //this is uncheck exception because it happen when code execute
             int result =  b / a;
             System.out.println(result);
         }catch(ArithmeticException exception){  
