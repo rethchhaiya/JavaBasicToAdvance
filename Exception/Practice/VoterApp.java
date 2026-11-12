@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class VoterApp {
     public static void main(String[] args) {
         Person person = new Person();
+
         Scanner scanner = new Scanner(System.in);
         VoterService voterService  = new VoterService();
         PersonService personService = new PersonService();
